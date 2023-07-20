@@ -1,4 +1,4 @@
-# Prompts that cause ChatGPT-4 to hallucinate.
+# Examples of Prompts that cause ChatGPT-4 to hallucinate.
 
 **Contributors:** Stephen Casper (scasper@mit.edu), Luke Bailey (lukebailey@college.harvard.edu), Zachary Marinov (zmarinov@mit.edu), Michael Gerovich (mgerov@mit.edu), Andrew Garber (andrewgarber@college.harvard.edu), Shuvom Sadhuka (ssadhuka@mit.edu), Oam Patel (opatel@college.harvard.edu), Riley Kong (rileyis@mit.edu)
 
@@ -23,6 +23,8 @@ The categories are
 - Justifying a wrong response
 - Making up outrageous facts
 - Shifts from a common setup
+
+These categories are not and were not intended to be a complete taxonomy. There are certainly other ways to make GPT-4 output falsehoods. In general, any type of question that is difficult to answer correctly would be valid, but we focus instead on certain categories that we find to be particularly egregious.
 
 **What we hope this is useful for:** Our dataset of examples is small and was collected with a just-messing-around methodology. But some might find that these examples make for decent ones to use for testing various behaviors of chatbots involving hallucination. Our taxonomy could also be useful for more systematically studying hallucination. We also invite OpenAI to fix these issues and for anyone with additional ideas or examples to send them to us so we can update the dataset :)
 
